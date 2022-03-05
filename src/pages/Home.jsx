@@ -9,7 +9,7 @@ const Home = () => {
 
 		 <div className='containersito'>
 		
-		<h1 className='title1'> Soy el home, React Shop </h1>
+		<h1 className='title1'> Soy el home, React Shop. </h1>
 
 		<h2 className='title2'>Todas las pages de la app</h2>
 		
